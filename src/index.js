@@ -1,5 +1,2 @@
-import './css/style.css';
-
-import './js/app';
-
-// TODO: write your code in app.js
+import Character from "./js/Character"
+const ch = new Character('D',90,3)
